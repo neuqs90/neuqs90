@@ -22,17 +22,3 @@
 ###
 
 <p align="left">👋 Hey there! I'm NEUQS ,  a passionate student diving into the world of Python development. With a solid grasp of Python fundamentals and a budding understanding of Java,I'm on a journey of continuous learning and growth. Let's collaborate and code something amazing together!</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/neuqs90/neuqs90/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
