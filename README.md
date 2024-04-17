@@ -25,5 +25,5 @@
 
 ###
 
-<h3 align='right'>📫 How to reach me (Instagram) : @neuqs0035 <h3>
-<h3 align='right'>⚡ Fun fact: I'm a certified procrastinator but somehow<br>manage to get everything done on time! ⏰</h3>
+<h3 align='left' style={margin-left:20px}>📫 How to reach me (Instagram) : @neuqs0035 <h3>
+<h3 align='left' style={margin-left:20px}>⚡ Fun fact: I'm a certified procrastinator but somehow<br>manage to get everything done on time! ⏰</h3>
