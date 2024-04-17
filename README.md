@@ -24,6 +24,6 @@
 <img align="left" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
+<br>
 <h3 align='left' style={margin-left:20px}>📫 How to reach me (Instagram) : @neuqs0035 <h3>
 <h3 align='left' style={margin-left:20px}>⚡ Fun fact: I'm a certified procrastinator but somehow<br>manage to get everything done on time! ⏰</h3>
