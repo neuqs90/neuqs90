@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is NEUQS, I Am Computer Engineering Student 💻</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -17,13 +17,20 @@
 
 ###
 
-<h3>Hey there! I'm NEUQS 👋.<br>- A passionate student Interested into the Python development.I'm on a journey of continuous learning and growth.Let's collaborate and code something amazing together!</h3>
+<img align="left" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<h3><img align="left" height="150" style={display:block} src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /></h3>
+<h4 align="center">- 👋 Hey there! I'm NEUQS ,  a passionate student diving <br>into the world of Python development. <br><br>- I'm on a journey of continuous learning and growth. <br>Let's collaborate and code something amazing together!</h4>
 
 ###
 
-<h3 align='left'>📫 How to reach me (Instagram) : @neuqs0035 </h3>
-<h3 align='left'>⚡ Fun fact: I'm a certified procrastinator but somehow<br>manage to get everything done on time! ⏰</h3>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/neuqs90/neuqs90/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</h4>
+
+###
