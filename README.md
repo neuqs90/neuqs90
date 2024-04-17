@@ -18,8 +18,8 @@
 
 ###
 
-<h3 align="left">Hey there! I'm NEUQS 👋.<br>- A passionate student Interested into the Python development.<br>-With a solid grasp of Python fundamentals and a budding understanding of Java.<br>-I'm on a journey of continuous learning and growth.<br>-Let's collaborate and code something amazing together!</h3>
+<img align="right" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<br>
+<h3 align="left">Hey there! I'm NEUQS 👋.<br>- A passionate student Interested into the Python development.<br>-I'm on a journey of continuous learning and growth.<br>-Let's collaborate and code something amazing together!</h3>
