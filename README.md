@@ -17,8 +17,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhuZG81N2czcXh0czUzeDZ5cnpucTB4c3Zsam1yZ2poNjQ1dWpvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKWvwyGpgtlxQFq/giphy-downsized-large.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<p align="left">👋 Hey there! I'm NEUQS ,  a passionate student diving into the world of Python development. With a solid grasp of Python fundamentals and a budding understanding of Java,I'm on a journey of continuous learning and growth. Let's collaborate and code something amazing together!</p>
+<h3 align="left">👋 Hey there! I'm NEUQS ,  a passionate student diving into the world of Python development. With a solid grasp of Python fundamentals and a budding understanding of Java,I'm on a journey of continuous learning and growth. Let's collaborate and code something amazing together!</h3>
