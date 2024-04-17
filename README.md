@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="center">- 👋 Hey there! I'm NEUQS ,  a passionate student diving <br>into the world of Python development. <br><br>- I'm on a journey of continuous learning and growth. <br>Let's collaborate and code something amazing together!</h4>
+<h4 align="center">- <br>👋 Hey there! I'm NEUQS ,  a passionate student diving <br>into the world of Python development. <br><br>- I'm on a journey of continuous learning and growth. <br>Let's collaborate and code something amazing together!</h4>
 
 ###
 
