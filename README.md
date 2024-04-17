@@ -19,11 +19,14 @@
 
 <img align="left" height="150" src="https://media.giphy.com/media/dISk854tQqGKHFm88e/giphy.gif?cid=790b7611ov5ulffzdy3u789ec3aqxf7fegn2mg74p4z30ri0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
+###
 
 <h4 align="center">- 👋 Hey there! I'm NEUQS ,  a passionate student diving <br>into the world of Python development. <br><br>- I'm on a journey of continuous learning and growth. <br>Let's collaborate and code something amazing together!</h4>
 
 ###
 
-<h4 align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</h4>
+<br clear="both">
+
+<p align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</p>
 
 ###
