@@ -25,12 +25,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/neuqs90/neuqs90/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</h4>
 
 ###
