@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Neuqs and I'm a Computer Engineering Studnet from Unknown</h2>
+<h2 align="left">Hi 👋! I Am Neuqs and I'm a Computer Engineering Studnet from Unknown</h2>
 
 ###
 
