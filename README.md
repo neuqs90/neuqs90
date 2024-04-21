@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Neuqs and I'm a Computer Engineering Studnet from Unknown</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <br clear="both">
-
+<br>
 <p align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</p>
 
 ###
