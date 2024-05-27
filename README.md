@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I Am Neuqs and I'm a Computer Engineering Studnet from Unknown</h2>
+<h2 align="left">Hi 👋! I Am Bhavya and I'm a Computer Engineering Studnet</h2>
 
 ###
 
@@ -27,6 +27,6 @@
 
 <br clear="both">
 <br>
-<p align="left">📫 How to reach me (Instagram) : @neuqs0035 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</p>
+<p align="left">📫 How to reach me (Instagram) : @bhavya_x90 <br><br>⚡ Fun fact : I'm a certified procrastinator but somehow manage to get everything done on time! ⏰</p>
 
 ###
