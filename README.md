@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I Am Bhavya and I'm a Computer Engineering Studnet</h2>
+<h2 align="left">Hi 👋! I Am Bhavya and I'm a Computer Engineering Student</h2>
 
 ###
 
